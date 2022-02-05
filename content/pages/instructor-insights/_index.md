@@ -126,16 +126,93 @@ There are four sections of the course, with enrollment in each section limited t
 
 _Daily performance on the activities assigned in the weekly schedule are graded based on the following four-point scale:_
 
-| POINTS | DESCRIPTIONS |
-| --- | --- |
-| 4 | Performance that promises interaction with a native with no difficulty, discomfort, or misunderstanding; no English hesitation noises in speaking and no "foreignisms" in the written work. |
-| 3.5 | Performance comprehensible to native speakers, but with some non-patterned errors that would hinder smooth interaction with them. |
-| 3 | Performance comprehensible to a native, but with evident weakness or patterned errors. |
-| 2.5 | Communication requires much help from interlocutor. |
-| 2 | Performance puts burden on interlocutor. To facilitate communication, a Chinese-speaking native would probably avoid using Chinese with you. |
-| 1.5 | Barely prepared; little competency evident. |
-| 1 | Evidently unprepared; unable to perform. |
-| 0 | Absent. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Performance that promises interaction with a native with no difficulty, discomfort, or misunderstanding; no English hesitation noises in speaking and no "foreignisms" in the written work.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+Performance comprehensible to native speakers, but with some non-patterned errors that would hinder smooth interaction with them.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Performance comprehensible to a native, but with evident weakness or patterned errors.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+Communication requires much help from interlocutor.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Performance puts burden on interlocutor. To facilitate communication, a Chinese-speaking native would probably avoid using Chinese with you.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.5
+{{< tdclose >}}
+{{< tdopen >}}
+Barely prepared; little competency evident.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Evidently unprepared; unable to perform.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+Absent.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
