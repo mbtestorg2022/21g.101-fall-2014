@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 72e39a55-cc88-e4be-4804-361036c26cf0
 resourcetype: Image
 title: 40-approx
 uid: 1ccf042f-b4fe-5660-978a-6379805d042a
